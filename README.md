@@ -14,7 +14,7 @@ Hope you like it !
 
 - Add sender email-id and passsword in app.js file.
 
--`$ node app.js` 
+- `$ node app.js` 
 
 - Open it on localhost 'http://127.0.0.1:3000'
 
