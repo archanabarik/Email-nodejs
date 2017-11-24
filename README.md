@@ -8,13 +8,15 @@ Hope you like it !
 
 
 
-`$ git clone` 
+-`$ git clone` 
 
-`cd Email-nodejs`
+`c-d Email-nodejs`
 
-`$ node app.js` 
+-Add sender email-id and passsword in app.js file.
 
-Open it on localhost 'http://127.0.0.1:3000'
+-`$ node app.js` 
+
+-Open it on localhost 'http://127.0.0.1:3000'
 
 
 
