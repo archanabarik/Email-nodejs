@@ -1,16 +1,16 @@
-# NodeMailerForm
-This is the NodeMailerForm
+# Email-nodejs
 
-NodeMailerForm is a micro node.js app, based on NodeMailer!
+
+Email-nodejs is a micro node.js app, based on NodeMailer!
 The Form is built in Bootstrap. 
 
 Hope you like it ! 
 
 
 
-$ git clone 
+`$ git clone` 
 
-cd Email-nodejs
+`cd Email-nodejs`
 
 $ node app.js 
 
