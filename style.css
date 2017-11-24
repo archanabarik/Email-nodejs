@@ -1,0 +1,19 @@
+img#logo-tp
+{margin:0 auto;
+	display:-webkit-box;
+	margin-top:50px}
+.panel-primary>.panel-heading
+{color:#fff;
+	background-color:#25292d;
+	border-color:#040404}
+.btn-primary{  
+  float: right;
+  color:#fff;
+  background-color:#2f2f2f;
+  border-color:#353535}
+.panel-primary
+{border-color:#e8e8e8}
+.btn-primary.active,.btn-primary.focus,.btn-primary:active,.btn-primary:focus,.btn-primary:hover,.open>.dropdown-toggle.btn-primary{
+	color:#fff;
+	background-color:#212121;
+	border-color:#333}
