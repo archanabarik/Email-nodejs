@@ -12,7 +12,7 @@ Hope you like it !
 
 `cd Email-nodejs`
 
-$ node app.js 
+`$ node app.js` 
 
 Open it on localhost 'http://127.0.0.1:3000'
 
